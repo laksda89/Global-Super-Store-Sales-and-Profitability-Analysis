@@ -1,3 +1,5 @@
+<img width="1800" height="378" alt="dataset-cover (1)" src="https://github.com/user-attachments/assets/de34a641-e638-4a68-b278-3e3ba71770c4" />
+
 # Global-Super-Store-Data-Analysis
 Global Super Store is an Online Shopping Store which was most popular during COVID time as Customers bought anything they want conveniently.Customer and Product Analysis are conducted on the Global Super Store dataset using Excel, Power Query, Pivot table, Pivot chart, Slicers and Conditional Formatting.KPI results are displayed in Excel Dashboard.
 
@@ -58,6 +60,28 @@ Cleaning and Transformation Steps Performed :
 
 ## Dashboard
 The interactive Excel dashboard provides an overview of sales, profitability, customer, product, geographic, and delivery performance.
+
+[Data Visualization Page](Dashboard%20Visualization/Images.md)
+
+## Business Recommendations
+- The Consumer segment generated the highest total profit.The business should consider increasing its investment in this segment through targeted marketing and customer retention strategies to capitalize on its strong profitability and support future revenue growth.
+- The United States is the company's highest-sales market, indicating strong customer demand and significant revenue contribution from this country. Maintaining customer relationships and continuing sales initiatives in this market could help protect and grow overall revenue.The business should also evaluate the other high-performing countries for opportunities to replicate successful strategies in developing markets.
+- Based on the sales and profitability analysis, the customer base should be segmented to optimize marketing spend:
+* **High-Revenue Customers (The Profit Drivers):** 
+  * *Insight:* These customers generate the highest profit margins per transaction but buy less frequently.
+  * *Action:* Focus on **premium tier upsells**, exclusive VIP customer service, and early access to new product lines rather than price discounts.
+
+* **High-Frequency Customers (The Loyal Baseline):**
+  * *Insight:* These shoppers buy often, keeping transaction volumes high, but have lower overall profit margins per order.
+  * *Action:* Launch a **Membership Loyalty Program**. Offer targeted deals, volume discounts, or subscription models to secure their long-term customer lifetime value (CLV) and increase their average basket size.
+- Average delivery time is 3.97 days overall, with variation across countries.Countries significantly above the benchmark may have opportunities for delivery-efficiency improvements.Investigate high-delivery-time countries by Shipping Mode, Region, and Order/Ship patterns to identify the source of delays.
+
+
+    
+
+
+
+
 
 
 
