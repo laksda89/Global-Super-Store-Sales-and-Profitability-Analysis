@@ -59,11 +59,7 @@ Cleaning and Transformation Steps Performed :
 ## Dashboard
 The interactive Excel dashboard provides an overview of sales, profitability, customer, product, geographic, and delivery performance.
 
-![Global-Superstore-Original-Clean-Dataset](Global-Superstore-Original-Clean-Dataset.png)
-![Global-Superstore-Performance-Dashboard](Global-Superstore-Performance-Dashboard.png)
-![Profitable-Products-Dashboard](Profitable-Products-Dashboard.png)
-![Profit-Margin & Sales-Dashboard](Profit-Margin & Sales-Dashboard.png)
-![Customer-Distribution-Dashboard](Customer-Distribution-Dashboard.png)
+
 
 
 
